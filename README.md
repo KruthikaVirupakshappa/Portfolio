@@ -1,0 +1,1 @@
+Hi! I’m a Master’s student in Applied Data Science at San José State University (expected May 2027) with 8 years of professional experience in data analytics and business intelligence. I’m passionate about turning data into actionable insights through visualization, modeling, and storytelling.
