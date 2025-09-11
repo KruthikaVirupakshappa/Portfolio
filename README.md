@@ -15,6 +15,7 @@ B.E. Computer Science & Engineering – Visvesvaraya Technological University
 
 ## 💼 Experience
 ** Principal Analyst | Anheuser-Busch InBev (Apr 2022 – May 2024, Bangalore)
+
 -- Designed & deployed global Power BI dashboards, reducing reporting time by 40%.
 
 -- Built SQL + Python forecasting models (Regression, Random Forest), improving production planning accuracy by 35%.
@@ -22,6 +23,7 @@ B.E. Computer Science & Engineering – Visvesvaraya Technological University
 -- Partnered with finance & sales teams to automate budgeting dashboards, driving cost savings initiatives.
 
 ** Software Engineer | Fiserv (Jan 2016 – Mar 2022, Bangalore)
+
 -- Built Power BI dashboards for fee calculation, revenue forecasting, and invoice transparency.
 
 -- Engineered ETL pipelines (SQL, Python), reducing load times by 60% and improving downstream ML readiness.
