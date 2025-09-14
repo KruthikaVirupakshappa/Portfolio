@@ -1,5 +1,5 @@
 # Kruthika Virupakshappa  
-### Master’s Student in Applied Data Science | Data Analyst | Aspiring Data Scientist
+## Master’s Student in Applied Data Science | Data Analyst | Aspiring Data Scientist
 
 Hi! I’m a Master’s student in Applied Data Science at San José State University with 8 years of professional experience in data analytics and business intelligence. I specialize in data science, machine learning, and visualization, with hands-on experience building predictive models, scalable data pipelines, and executive dashboards.
 
@@ -8,6 +8,9 @@ Hi! I’m a Master’s student in Applied Data Science at San José State Univer
 -- Machine Learning & Statistics: Regression, Classification, Clustering, Time Series, A/B Testing
 -- Data Engineering & Tools: ETL, APIs, Data Pipelines, Snowflake, AWS, Git, Docker
 -- Visualization: Tableau, Power BI, Matplotlib, Seaborn
+![Static Badge](https://img.shields.io/badge/Microsoft%20Power%20BI)
+![Static Badge](https://img.shields.io/badge/sql)
+![Static Badge](https://img.shields.io/badge/python)
 
 ## 🎓 Education
 M.S. Applied Data Science – San José State University (2025–2027)
