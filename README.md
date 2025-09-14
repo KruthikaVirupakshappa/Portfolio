@@ -8,9 +8,6 @@ Hi! I’m a Master’s student in Applied Data Science at San José State Univer
 -- Machine Learning & Statistics: Regression, Classification, Clustering, Time Series, A/B Testing
 -- Data Engineering & Tools: ETL, APIs, Data Pipelines, Snowflake, AWS, Git, Docker
 -- Visualization: Tableau, Power BI, Matplotlib, Seaborn
-![Static Badge](https://img.shields.io/badge/Microsoft%20Power%20BI)
-![Static Badge](https://img.shields.io/badge/sql)
-![Static Badge](https://img.shields.io/badge/python)
 
 ## 🎓 Education
 M.S. Applied Data Science – San José State University (2025–2027)
