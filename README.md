@@ -44,7 +44,9 @@ Master’s student in Applied Data Science at San Jose State University (graduat
 ## 🏆 Certifications
 
 - AWS Certified Data Engineer Associate  
-- Databricks AI Agent Fundamentals  
+- Databricks AI Agent Fundamentals
+- Microsoft Certified: Power BI Data Analyst Associate | Power BI
+- Microsoft Certified: Power Platform Fundamentals | Power Platform  
 
 ---
 
@@ -66,13 +68,16 @@ Visvesvaraya Technological University
 04/2022 to 05/2024
 - Improved production planning accuracy by 35 percent and reduced inventory costs by $1.8M annually through ML forecasting models with GridSearchCV tuning.  
 - Built ETL pipelines and dashboards processing more than 10M monthly transactions, cutting reporting time by 45 percent.  
-- Automated reporting with standardized statistical logic improving accuracy of 150 plus KPI deliverables.  
+- Automated reporting with standardized statistical logic improving accuracy of 150 plus KPI deliverables.
+- Designed and deployed 15+ global Power BI dashboards with advanced DAX calculations, reducing reporting time by 40% and standardizing KPI tracking across 8 regional markets
+- Developed YTD/MTD executive performance dashboards with interactive drill-down capabilities, enabling real-time tracking of progress against targets and identification of profit drivers and cost leakages for C-suite stakeholders
 
 ### Software Engineer | Fiserv  
 01/2016 to 03/2022
 - Built predictive revenue forecasting models improving fee capture by $850K annually.  
 - Engineered scalable ETL pipelines processing 50GB plus datasets daily, reducing load times by 60 percent.  
-- Implemented automated anomaly detection systems reducing manual checks by 40 percent.  
+- Implemented automated anomaly detection systems reducing manual checks by 40 percent.
+- Streamlined monthly financial and operational reporting processes, cutting manual analysis time by 40% and improving accuracy of recurring deliverables through SQL automation
 
 ---
 
@@ -88,10 +93,10 @@ Visvesvaraya Technological University
 ---
 
 ### Air Quality Monitoring System  
-**Python, SQL, PyQt5**
+**Python, SQL, Data Analytics**
 - Designed operational and analytical databases for sensor driven environmental data.  
-- Built an interactive PyQt5 dashboard for real time querying and visualization.  
-- Engineered ETL pipelines enhancing data quality and analytics readiness.  
+- Built an interactive PowerBI dashboard for real time querying and visualization.  
+- Engineered automated ETL pipelines for cleaning and transforming raw sensor data, improving data quality and ensuring seamless integration into analytical workflows
 
 ---
 
