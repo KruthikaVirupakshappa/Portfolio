@@ -1,5 +1,5 @@
 # Hi there 👋 I am Kruthika  
-Applied Data Science Graduate Student
+Applied Data Intelligence @ SJSU
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kruthika-virupakshappa&color=brightgreen" alt="Profile views" />
@@ -83,14 +83,51 @@ Visvesvaraya Technological University
 
 ## 🧪 Featured Academic Projects
 
-### Automated Stock Price Prediction System  
-**Python, Apache Airflow, Snowflake, Docker**
-- Designed an end to end data pipeline ingesting daily stock symbols with data quality checks.  
-- Implemented containerized ETL workflows and scheduled ML model training.  
-- Built a dimensional model in Snowflake supporting incremental loads.  
-- Achieved 99 percent pipeline uptime with retry logic and monitoring alerts.  
+### Automated Stock Price Prediction & Analytics
 
----
+**Python, Apache Airflow, Snowflake, Docker, yfinance**
+
+* Built a finance data analytics pipeline to ingest historical market data and support stock price prediction, volatility analysis, and portfolio analysis.
+* Automated ETL workflows with Airflow and integrated Snowflake for cloud-based storage and analytics.
+* Designed the system to forecast stock prices for companies such as NVIDIA and Tesla using historical trading data.
+* Created a scalable foundation for downstream financial modeling and decision support.
+
+### Power-Pulse: Real-Time Electricity Demand & Generation Analysis
+
+**Python, Apache Airflow, Snowflake, dbt, Power BI**
+
+* Developed an end-to-end energy analytics platform using U.S. EIA data to monitor electricity demand, generation, and forecast accuracy.
+* Built automated ETL/ELT workflows with Airflow and modular transformations with dbt.
+* Designed a star-schema analytics model in Snowflake for fast querying and scalable reporting.
+* Delivered interactive Power BI dashboards with KPIs, regional trends, and hourly demand heatmaps.
+
+### Social Media Advertisement Performance Analysis
+
+**Power BI, Python, ARIMA, Data Analytics**
+
+* Analyzed ad performance across Facebook and Instagram using event-level engagement and campaign data.
+* Built a Power BI dashboard to visualize engagement patterns, platform trends, and demographic behavior.
+* Applied ARIMA-based forecasting to predict event counts and support campaign performance analysis.
+* Integrated multiple datasets including ad events, campaign metadata, and user demographics.
+
+### Semantic Cache for LLM Applications
+
+**Python, Redis, SentenceTransformers, Ollama, FastAPI**
+
+* Built a semantic caching system that stores LLM responses in Redis using vector embeddings and cosine similarity search.
+* Reduced repeated LLM calls by serving cached responses for duplicate or semantically similar queries.
+* Implemented FastAPI with streaming support for an interactive web-based demo.
+* Achieved measurable performance gains, including faster response times for cache hits.
+
+### Kafka-Based Multi-Agent AI Pipeline with GEval
+
+**Python, Apache Kafka, Ollama, DeepEval, FastAPI, React, Docker**
+
+* Built a multi-agent AI pipeline where Planner, Writer, and Reviewer agents communicate through Kafka topics.
+* Added automated GEval-based quality evaluation to score planning, writing, and review stages.
+* Developed a FastAPI backend and React dashboard for real-time pipeline visibility.
+* Containerized the full system with Docker Compose for reproducible local deployment.
+
 
 ### Air Quality Monitoring System  
 **Python, SQL, Data Analytics**
